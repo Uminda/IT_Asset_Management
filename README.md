@@ -7,7 +7,3 @@ Test Repository in github.
 
 ## Subheadder_2
 Test Repository in github.
-
-## NewLine
-Net Line + New sentence
-
